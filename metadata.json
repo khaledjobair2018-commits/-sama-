@@ -1,0 +1,8 @@
+{
+  "name": "Remix نظام مطابقة وإدخال فواتير الأدوية الصيدلانية",
+  "description": "نظام ذكي ومحلي لمطابقة فواتير موردي الأدوية مع قاعدة البيانات الرسمية للصيدلية وحساب فروق الأسعار وتوليد ملف الإدخال السريع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
